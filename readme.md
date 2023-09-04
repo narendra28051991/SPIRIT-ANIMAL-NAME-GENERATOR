@@ -1,1 +1,1 @@
-# Readme
+# Spirit Animal Name Generator
